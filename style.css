@@ -1,0 +1,14 @@
+
+#ball{
+    background-color:#8ce;
+    height:100px;
+    width:100px;
+    position:absolute;
+    border-radius:50%;
+    background-image:radial-gradient(circle at 30% 30%,#6ad, #47a );
+    transition-duration: 2s;
+  }
+  #ball:hover{
+    transform:scale(1.1);
+  }
+  
